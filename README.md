@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juliana Trombetta</h1>
-<h3 align="center">Brazilian 🇧🇷,📍based on Germany 🇩🇪 and traveling around 🚐</h3>
+<h3 align="center">Brazilian 🇧🇷,📍based in Germany 🇩🇪 and traveling around 🚐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianatrombetta&label=Profile%20views&color=0e75b6&style=flat" alt="julianatrombetta" /> </p>
 
